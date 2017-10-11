@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: https://api.chatlio.com/v1/p/visitor/session/new
+:body: '{"vsUuid":"","ceUuid":"8a54fdee-6747-4ce9-4d69-f03c2af664f2","page":"http://127.0.0.1:55004/projects"}'
+:status: 404
+:method: post
+:headers:
+  Server: nginx
+  Date: Mon, 14 Aug 2017 18:56:14 GMT
+  Content-Type: text/plain; charset=utf-8
+  Content-Length: '31'
+  Connection: close
+  Access-Control-Allow-Headers: Content-Type, Authorization
+  Access-Control-Allow-Methods: POST, GET, PUT, OPTIONS, DELETE
+  Access-Control-Allow-Origin: "*"
+  Access-Control-Expose-Headers: X-Chatlio-Vsuuid, X-Chatlio-At, X-Chatlio-Rt
+  Expires: "-1"
+  X-Content-Type-Options: nosniff
+:content: 'unable_to_create_visitor_no_ce
+
+'

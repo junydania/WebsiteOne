@@ -1,0 +1,21 @@
+---
+:scope: 
+:url: https://api.chatlio.com/v1/p/visitor/session/new
+:body: '{"vsUuid":"6c717277-a836-4061-99c1-0a76a88f0a18","ceUuid":"8a54fdee-6747-4ce9-4d69-f03c2af664f2","page":"http://127.0.0.1:65087/events/scrum"}'
+:status: 403
+:method: post
+:headers:
+  Server: nginx
+  Date: Mon, 14 Aug 2017 18:45:42 GMT
+  Content-Type: text/plain; charset=utf-8
+  Content-Length: '18'
+  Connection: close
+  Access-Control-Allow-Headers: Content-Type, Authorization
+  Access-Control-Allow-Methods: POST, GET, PUT, OPTIONS, DELETE
+  Access-Control-Allow-Origin: "*"
+  Access-Control-Expose-Headers: X-Chatlio-Vsuuid, X-Chatlio-At, X-Chatlio-Rt
+  Expires: "-1"
+  X-Content-Type-Options: nosniff
+:content: 'visitor_not_found
+
+'
